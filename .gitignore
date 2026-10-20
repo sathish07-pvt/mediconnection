@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+backend/uploads/
+
+node_modules/
+.env
+backend/.env
